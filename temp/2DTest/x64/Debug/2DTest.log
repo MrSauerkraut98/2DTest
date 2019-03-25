@@ -1,0 +1,5 @@
+﻿  _2DTestApp.cpp
+  main.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  2DTest.vcxproj -> C:\Users\s191497\Downloads\aieBootstrap-master\aieBootstrap-master\temp\2DTest\x64\Debug\2DTest.exe
